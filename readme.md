@@ -1,13 +1,4 @@
 # Laravel Book Store complete website
+![](https://steamuserimages-a.akamaihd.net/ugc/945093483574551138/E32BDFE873DE7E7E62AEF0723FC8FB1CC15D3058/)
 
-
-
-
-## Official Documentation
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
 
